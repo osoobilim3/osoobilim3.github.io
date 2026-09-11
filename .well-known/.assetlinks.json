@@ -1,0 +1,27 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.osoobilim3.app",
+        "sha256_cert_fingerprints": ["E9:68:42:CC:19:81:43:40:44:30:AF:69:BB:AF:B1:30:53:A9:F0:AB:72:3B:90:17:65:93:AD:17:61:D6:DB:83"]
+      }
+    }]
+
+<html>
+    <body>
+        <script>
+            window.location = "https://docs.pwabuilder.com/#/builder/android?id=publish";
+        </script>
+    </body>
+</html>
+
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: nOh7rZ7lNpO9
+Key alias: my-key-alias
+Key password: nOh7rZ7lNpO9
+Signer's full name: Отметки Admin
+Signer's organization: Планета — отметки
+Signer's organizational unit: Engineering
+Signer's country code: US
